@@ -1,0 +1,6 @@
+print('O que e python?')
+print('E um tipo de linguagem de programacao')
+print('Qual programa (IDE) executa o arquivo.py?')
+print('Visual code')
+print('Qual a linguagem de programacao python substituiu?')
+print('Linguagem ABC')
